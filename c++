@@ -54,6 +54,12 @@ int result;
 result=1+2-4;
 cout<<result;
 }
+7
+#include <iostream>
+using namespace std;
+int main()
+double x=0.5,y=0.25;
+cout<<x+y;)
 8
 #include <iostream>
 #include <cmath>
